@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaf107 aka Abu Jafar Saifullah Mahin
-- 👀 I’m interested in Artificial Intelligence, Distributed System and Competitive Programming
-- 🌱 I’m currently learning Full Stack Web Development and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Web Projects
+- 👀 My interests align with Machine Learning, Artificial Intelligence and Problem Solving.
+- 🌱 I’m currently learning Machine Learning, Deep Learning and working on DotNet Projects.
+- 💞️ I’m looking to collaborate on Web Projects(Backend)
 - 📫 How to email me at jafarmahin107@gmail.com or reach me through @Jaf107#1949 in Discord
  
 <!---
